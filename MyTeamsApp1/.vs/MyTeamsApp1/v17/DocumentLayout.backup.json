@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SAXO\\Source\\Repos\\MyTeamsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7914BF2-E94A-46D3-AF60-64589850D5E4}|MyTeamsApp1\\MyTeamsApp1.csproj|c:\\users\\saxo\\source\\repos\\myteamsapp1\\myteamsapp1\\teamsbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7914BF2-E94A-46D3-AF60-64589850D5E4}|MyTeamsApp1\\MyTeamsApp1.csproj|solutionrelative:myteamsapp1\\teamsbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7914BF2-E94A-46D3-AF60-64589850D5E4}|MyTeamsApp1\\MyTeamsApp1.csproj|c:\\users\\saxo\\source\\repos\\myteamsapp1\\myteamsapp1\\notifytimertrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7914BF2-E94A-46D3-AF60-64589850D5E4}|MyTeamsApp1\\MyTeamsApp1.csproj|solutionrelative:myteamsapp1\\notifytimertrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7914BF2-E94A-46D3-AF60-64589850D5E4}|MyTeamsApp1\\MyTeamsApp1.csproj|c:\\users\\saxo\\source\\repos\\myteamsapp1\\myteamsapp1\\messagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7914BF2-E94A-46D3-AF60-64589850D5E4}|MyTeamsApp1\\MyTeamsApp1.csproj|solutionrelative:myteamsapp1\\messagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7914BF2-E94A-46D3-AF60-64589850D5E4}|MyTeamsApp1\\MyTeamsApp1.csproj|c:\\users\\saxo\\source\\repos\\myteamsapp1\\myteamsapp1\\.notification.localstore.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A7914BF2-E94A-46D3-AF60-64589850D5E4}|MyTeamsApp1\\MyTeamsApp1.csproj|solutionrelative:myteamsapp1\\.notification.localstore.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7914BF2-E94A-46D3-AF60-64589850D5E4}|MyTeamsApp1\\MyTeamsApp1.csproj|c:\\users\\saxo\\source\\repos\\myteamsapp1\\myteamsapp1\\adapterwitherrorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7914BF2-E94A-46D3-AF60-64589850D5E4}|MyTeamsApp1\\MyTeamsApp1.csproj|solutionrelative:myteamsapp1\\adapterwitherrorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7914BF2-E94A-46D3-AF60-64589850D5E4}|MyTeamsApp1\\MyTeamsApp1.csproj|c:\\users\\saxo\\source\\repos\\myteamsapp1\\myteamsapp1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A7914BF2-E94A-46D3-AF60-64589850D5E4}|MyTeamsApp1\\MyTeamsApp1.csproj|solutionrelative:myteamsapp1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7914BF2-E94A-46D3-AF60-64589850D5E4}|MyTeamsApp1\\MyTeamsApp1.csproj|c:\\users\\saxo\\source\\repos\\myteamsapp1\\myteamsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7914BF2-E94A-46D3-AF60-64589850D5E4}|MyTeamsApp1\\MyTeamsApp1.csproj|solutionrelative:myteamsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7914BF2-E94A-46D3-AF60-64589850D5E4}|MyTeamsApp1\\MyTeamsApp1.csproj|c:\\users\\saxo\\source\\repos\\myteamsapp1\\myteamsapp1\\models\\notificationdefaultmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7914BF2-E94A-46D3-AF60-64589850D5E4}|MyTeamsApp1\\MyTeamsApp1.csproj|solutionrelative:myteamsapp1\\models\\notificationdefaultmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessageHandler.cs",
+              "DocumentMoniker": "C:\\Users\\SAXO\\Source\\Repos\\MyTeamsApp1\\MyTeamsApp1\\MessageHandler.cs",
+              "RelativeDocumentMoniker": "MyTeamsApp1\\MessageHandler.cs",
+              "ToolTip": "C:\\Users\\SAXO\\Source\\Repos\\MyTeamsApp1\\MyTeamsApp1\\MessageHandler.cs",
+              "RelativeToolTip": "MyTeamsApp1\\MessageHandler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwBwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:34:14.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotifyTimerTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\SAXO\\Source\\Repos\\MyTeamsApp1\\MyTeamsApp1\\NotifyTimerTrigger.cs",
+              "RelativeDocumentMoniker": "MyTeamsApp1\\NotifyTimerTrigger.cs",
+              "ToolTip": "C:\\Users\\SAXO\\Source\\Repos\\MyTeamsApp1\\MyTeamsApp1\\NotifyTimerTrigger.cs",
+              "RelativeToolTip": "MyTeamsApp1\\NotifyTimerTrigger.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwCIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:34:31.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeamsBot.cs",
+              "DocumentMoniker": "C:\\Users\\SAXO\\Source\\Repos\\MyTeamsApp1\\MyTeamsApp1\\TeamsBot.cs",
+              "RelativeDocumentMoniker": "MyTeamsApp1\\TeamsBot.cs",
+              "ToolTip": "C:\\Users\\SAXO\\Source\\Repos\\MyTeamsApp1\\MyTeamsApp1\\TeamsBot.cs",
+              "RelativeToolTip": "MyTeamsApp1\\TeamsBot.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:34:41.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdapterWithErrorHandler.cs",
+              "DocumentMoniker": "C:\\Users\\SAXO\\Source\\Repos\\MyTeamsApp1\\MyTeamsApp1\\AdapterWithErrorHandler.cs",
+              "RelativeDocumentMoniker": "MyTeamsApp1\\AdapterWithErrorHandler.cs",
+              "ToolTip": "C:\\Users\\SAXO\\Source\\Repos\\MyTeamsApp1\\MyTeamsApp1\\AdapterWithErrorHandler.cs",
+              "RelativeToolTip": "MyTeamsApp1\\AdapterWithErrorHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T11:02:56.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": ".notification.localstore.json",
+              "DocumentMoniker": "C:\\Users\\SAXO\\Source\\Repos\\MyTeamsApp1\\MyTeamsApp1\\.notification.localstore.json",
+              "RelativeDocumentMoniker": "MyTeamsApp1\\.notification.localstore.json",
+              "ToolTip": "C:\\Users\\SAXO\\Source\\Repos\\MyTeamsApp1\\MyTeamsApp1\\.notification.localstore.json",
+              "RelativeToolTip": "MyTeamsApp1\\.notification.localstore.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-25T11:35:56.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SAXO\\Source\\Repos\\MyTeamsApp1\\MyTeamsApp1\\appsettings.json",
+              "RelativeDocumentMoniker": "MyTeamsApp1\\appsettings.json",
+              "ToolTip": "C:\\Users\\SAXO\\Source\\Repos\\MyTeamsApp1\\MyTeamsApp1\\appsettings.json",
+              "RelativeToolTip": "MyTeamsApp1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-25T11:32:03.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SAXO\\Source\\Repos\\MyTeamsApp1\\MyTeamsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "MyTeamsApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\SAXO\\Source\\Repos\\MyTeamsApp1\\MyTeamsApp1\\Program.cs",
+              "RelativeToolTip": "MyTeamsApp1\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T11:04:54.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NotificationDefaultModel.cs",
+              "DocumentMoniker": "C:\\Users\\SAXO\\Source\\Repos\\MyTeamsApp1\\MyTeamsApp1\\Models\\NotificationDefaultModel.cs",
+              "RelativeDocumentMoniker": "MyTeamsApp1\\Models\\NotificationDefaultModel.cs",
+              "ToolTip": "C:\\Users\\SAXO\\Source\\Repos\\MyTeamsApp1\\MyTeamsApp1\\Models\\NotificationDefaultModel.cs",
+              "RelativeToolTip": "MyTeamsApp1\\Models\\NotificationDefaultModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:34:02.204Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

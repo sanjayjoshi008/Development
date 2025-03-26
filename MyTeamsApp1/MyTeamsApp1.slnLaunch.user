@@ -1,0 +1,36 @@
+[
+  {
+    "Name": "Microsoft Teams (browser)",
+    "Projects": [
+      {
+        "Path": "TeamsApp\\TeamsApp.ttkproj",
+        "Name": "TeamsApp\\TeamsApp.ttkproj",
+        "Action": "StartWithoutDebugging",
+        "DebugTarget": "Microsoft Teams (browser)"
+      },
+      {
+        "Path": "MyTeamsApp1\\MyTeamsApp1.csproj",
+        "Name": "MyTeamsApp1\\MyTeamsApp1.csproj",
+        "Action": "Start",
+        "DebugTarget": "Start Project"
+      }
+    ]
+  },
+  {
+    "Name": "Teams App Test Tool (browser)",
+    "Projects": [
+      {
+        "Path": "TeamsApp\\TeamsApp.ttkproj",
+        "Name": "TeamsApp\\TeamsApp.ttkproj",
+        "Action": "StartWithoutDebugging",
+        "DebugTarget": "Teams App Test Tool (browser)"
+      },
+      {
+        "Path": "MyTeamsApp1\\MyTeamsApp1.csproj",
+        "Name": "MyTeamsApp1\\MyTeamsApp1.csproj",
+        "Action": "Start",
+        "DebugTarget": "Teams App Test Tool"
+      }
+    ]
+  }
+]
